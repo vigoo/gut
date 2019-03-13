@@ -1,0 +1,11 @@
+[package]
+name = "gut"
+version = "0.1.0"
+authors = ["Daniel Vigovszky <daniel.vigovszky@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+error-chain = "0.12.0"
+git2 = "0.7"
+regex = "1"
